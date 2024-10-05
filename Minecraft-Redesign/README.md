@@ -15,3 +15,14 @@ A visually modern redesign of the classic Minecraft website, bringing in new aes
 **Sayan Das**
 
 Feel free to explore and give feedback!
+
+## Here are some snapshots of the redesigned Minecraft website:
+
+- **Homepage Section**  
+![Minecraft Redesign Homepage](./src/assets/reference-image/intro-image.png)
+
+- **3d Element Design**  
+![Enchanting Section](./src/assets/reference-image/enchant-image.png)
+
+- **Beautiful Layouts**  
+![More Games](./src/assets/reference-image/more-games-image.png)
